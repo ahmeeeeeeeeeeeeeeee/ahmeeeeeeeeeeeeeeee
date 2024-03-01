@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ahmeeeeeeeeeeeeeeee
+i- 👋 Hi, I’m @ahmeeeeeeeeeeeeeeee
 - 👀 I’m interested in qb-developpement
 - 🌱 I’m currently learning esx-developpement
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ahmeee_qlf
 - 😄 Pronouns: kacm_o dima kokab \ 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: li bgha tkhlik khliha
 
 <!---
 ahmeeeeeeeeeeeeeeee/ahmeeeeeeeeeeeeeeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
