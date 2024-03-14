@@ -4,7 +4,7 @@ i- 👋 Hi, I’m @ahmeeeeeeeeeeeeeeee
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ahmeee_qlf
 - 😄 Pronouns: kacm_o dima kokab \ 
-- ⚡ Fun fact: li bgha tkhlik khliha
+- ⚡ Fun fact: A cloud weighs around a million tonnes. ...
 
 <!---
 ahmeeeeeeeeeeeeeeee/ahmeeeeeeeeeeeeeeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
